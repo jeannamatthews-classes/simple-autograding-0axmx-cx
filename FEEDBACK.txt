@@ -1,0 +1,6 @@
+The material that was new to me in this section was following users and Github explore.
+I have been somewhat familiar with the general concepts of Github and using Github.
+I think the issues regarding Git that I experience the most are things that involve aspects like merge and rebase.
+Other than that, general concepts like push, pull, and commit all make sense to me.
+I have not been involved in the Github community very much, so I think I forgot that you could follow and explore.
+Other than that, I have been pretty familiar with the basics of Github.
